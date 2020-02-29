@@ -13,7 +13,7 @@ fun main(args:Array<String>) {
 
     var score : Float = 96.5f;
     var y = 20
-    y = 100
+    y = 1000
 
     val sex="man";
 }
